@@ -12,8 +12,6 @@ To run the project, add the input video, titled `input.mp4`, in the same directo
 
 Additionally, one may note that the notebook contains a parameter `frame_width_scale_meters`, which indicates the real-world length that corresponds to the width of one video frame, in meters. The value of this parameter may be changed to get results with accurate units.
 
-## Sample Output Images
-
 <img src="./sample_output_images/sample_velocity_graph.png" alt="Sample velocity-time graph" width="400"/> <img src="./sample_output_images/sample_acceleration_graph.png" alt="Sample acceleration-time graph" width="400"/> <br>
 <img src="./sample_output_images/sample_data.png" alt="Sample Excel data screenshot" width="282"/> <img src="./sample_output_images/sample_overlaid_frame.png" alt="Sample overlaid frame" width="518"/> 
 
