@@ -14,7 +14,7 @@ Additionally, one may note that the notebook contains a parameter `frame_width_s
 
 ## Sample Output Images
 
-<img src="./sample_output_images/sample_velocity_graph.png" alt="Sample velocity-time graph" width="510"/> <img src="./sample_output_images/sample_acceleration_graph.png" alt="Sample acceleration-time graph" width="510"/> <br>
-<img src="./sample_output_images/sample_data.png" alt="Sample Excel data screenshot" width="360"/> <img src="./sample_output_images/sample_overlaid_frame.png" alt="Sample overlaid frame" width="660"/> 
+<img src="./sample_output_images/sample_velocity_graph.png" alt="Sample velocity-time graph" width="425"/> <img src="./sample_output_images/sample_acceleration_graph.png" alt="Sample acceleration-time graph" width="425"/> <br>
+<img src="./sample_output_images/sample_data.png" alt="Sample Excel data screenshot" width="300"/> <img src="./sample_output_images/sample_overlaid_frame.png" alt="Sample overlaid frame" width="500"/> 
 
 
