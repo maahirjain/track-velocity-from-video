@@ -17,4 +17,5 @@ Additionally, one may note that the notebook contains a parameter `frame_width_s
 <img src="./sample_output_images/sample_velocity_graph.png" alt="Sample velocity-time graph" width="400"/> <img src="./sample_output_images/sample_acceleration_graph.png" alt="Sample acceleration-time graph" width="400"/> <br>
 <img src="./sample_output_images/sample_data.png" alt="Sample Excel data screenshot" width="282"/> <img src="./sample_output_images/sample_overlaid_frame.png" alt="Sample overlaid frame" width="518"/> 
 
+I completed this project as part of a research team at Georgia Tech (Sports Performance Intelligence Platforms).
 
